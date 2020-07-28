@@ -1,8 +1,8 @@
 # TP5_JAVA
 
 OBSERVACIONES1.
-Crear un proyecto llamado TAREA5_GRUPO_X_LAB42.
-Debe  haber  una  clase  Principal  que  contenga  el  main  y SOLO  DEBE HABER UN MAIN EN TODO EL PROYECTO.
+Crear un proyecto llamado TAREA5_GRUPO_X_LAB4
+2.Debe  haber  una  clase  Principal  que  contenga  el  main  y SOLO  DEBE HABER UN MAIN EN TODO EL PROYECTO.
 3.Crear el correcto diagrama de clases.
 4.IMPORTANTE:   Para   aprobar   el   proyecto   tiene   que   tener   una organización de tipo tres capas(este tema fue visto en Programación III y tienen un ejemplo en el aula virtual llamado  Código: AppEscritorio_IV ,  para  que  investiguen  y  les  sirva  de  guía).
 Se  pide  que  respeten  el nombre de los paquetes y utilicen interfaces.
